@@ -28,3 +28,8 @@ body {
   background-image: "kitten.png";
   font-family: 'ZCOOL XiaoWei', serif;
 }
+
+table {
+  margin-right: auto;
+  margin-left: auto;
+}
