@@ -34,3 +34,7 @@ table {
   margin-left: auto;
   margin-top: 50px;
 }
+
+tr {
+  text-align: left;
+}
