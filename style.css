@@ -38,3 +38,28 @@ table {
 tr {
   text-align: left;
 }
+
+.container {
+  position: relative;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mustache {
+  position: absolute;
+  top: 292px;
+  left: 341px;
+  width: 120px;
+}
+
+.sunglasses {
+  position: absolute;
+  top: 208px;
+  left: 301px;
+  width: 200px;
+}
+
+.person {
+  width: 800px;
+}
