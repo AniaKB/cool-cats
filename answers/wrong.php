@@ -12,6 +12,6 @@ session_start();
     <link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@200&display=swap" rel="stylesheet">
   </head>
   <body>
-    <img src="passwordcat.png" class="rotate">
+    <img src="cool-cats/angry.png" class="rotate">
     <h1>That's not the password!!</h1>
   </body>
