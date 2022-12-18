@@ -11,5 +11,9 @@ if($correctpw != $correctpw)
     header("Location: wrong.php");
     exit();
   }
+  else {
+    header("Location: /play.php");
+    exit();
+  };
 }
 ?>

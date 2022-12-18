@@ -5,13 +5,13 @@ error_reporting(E_ALL);
 
 $pass = $_POST['pw1'];
 
-if($pass !== "bark")
+if($pass != "bark")
   {
     header("Location: wrong.php");
     exit();
   }
   else {
-    header("Location: q1.php");
+    header("Location: /play.php");
     exit();
-  }
+  };
 ?>
