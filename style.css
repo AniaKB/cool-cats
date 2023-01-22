@@ -47,9 +47,6 @@ tr {
 }
 
 .mustache {
-  position: absolute;
-  top: 292px;
-  left: 341px;
   width: 120px;
 }
 
@@ -62,4 +59,10 @@ tr {
 
 .person {
   width: 800px;
+}
+
+.mustache-container {
+  position: absolute;
+  top: 297px;
+  width: 100%;
 }
