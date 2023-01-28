@@ -5,7 +5,7 @@ error_reporting(E_ALL);
 
 $pass = $_POST['pw2'];
 
-if($pass != "bark")
+if($pass != "diapurrs")
   {
     header("Location: wrong.php");
     exit();

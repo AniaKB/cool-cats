@@ -5,7 +5,7 @@ error_reporting(E_ALL);
 
 $pass = $_POST['pw5'];
 
-if($pass !="sandy claws" || "Sandy claws");
+if($pass !="sandy" + "claws" || "Sandy" + "claws");
   {
     header("Location: wrong.php");
     exit();
